@@ -32,7 +32,7 @@ I welcome contributions! If you have an advanced PyTorch technique or topic you'
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
